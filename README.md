@@ -1,25 +1,16 @@
 # Umâmi
 
-Para acessar a página [clique aqui](https://social-networt.web.app/). :computer:
+#### Para acessar a página [clique aqui](https://social-networt.web.app/). :computer:
 
 <p align='center'>
 <img src='./public/pages/elementos/imagens/IMG3.png' alt='logo do projeto' height='300px'> 
 </p>
 
-## Índice
-
-- [1. Introdução](#1-introdução)
-- [2. Definições do projeto](#2-definições-do-projeto)
-- [3. Desenvolvimento](#3-desenvolvimento)
-- [4. Estrutura e funcionalidades](#4-estrutura-e-funcionalidades)
-- [5. Considerações técnicas](#5-considerações-técnicas)
-- [6. Implementações futuras](#6-implementações-futuras)
-- [7. Autoria](#7-autoria)
-- [8. Agradecimentos](#8-agradecimentos)
+[Introdução](#introdução) | [Planejamento](#planejamento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
 
 ---
 
-## 1. Introdução
+## Introdução
 
 O projeto **Umâmi**, se trata de uma rede social com foco em gastronomia :fork_and_knife:.  
 Desenvolvida com múltiplas telas (SPA) e persistência de dados, permite ao usuário criar uma conta, postar receitas, posts ou fotos de forma privada ou pública, dar like e comentar nas publicações, além de criar seu perfil, editar ou remover todas essas informações.
@@ -28,8 +19,7 @@ Desenvolvida com múltiplas telas (SPA) e persistência de dados, permite ao usu
 <img src='https://media.giphy.com/media/10u6gt11vnm812/giphy.gif' alt='gif cozinheiro'> 
 </p>
 
-## 2. Definições do projeto
-
+## Planejamento
 ### Principais usuários
 
 Chefes, aspirantes, cozinheiros amadores e qualquer pessoa que se interesse por culinária.
@@ -50,9 +40,7 @@ O usuário da rede social **Umâmi** pode:
 - Editar e excluir os comentários e postagens
 - Mudar sua senha e deletar sua conta
 
-## 3. Desenvolvimento
-
-### Sobre a página
+## Sobre a página
 
 **Umâmi** é um dos cinco gostos básicos do paladar humano, como o ácido, doce, amargo e salgado, e é uma palavra de origem japonesa (うま味?), que significa "gosto saboroso e agradável", o que tem tudo a ver com a aplicação, onde o usuário pode trocar experiências para vivenciar todas essas sensações.  
 As cores principais foram escolhidas para trazer a sensação de conforto e acolhimento (marrom) e estimular o apetite (amarelo).
@@ -68,8 +56,6 @@ As cores principais foram escolhidas para trazer a sensação de conforto e acol
 <p align='center'>
 <img src='./readme/desktop2.png' width='780px' alt='desktop 2'> 
 </p>
-
-[print timeline]
 
 ### Cores
 
@@ -127,7 +113,7 @@ Os protótipos gerais foram previamente fornecidos na descrição do projeto.
 
 Todas as histórias implementadas levam em consideração _critérios de aceitação_ e _definições de pronto_.
 
-## 4. Estrutura e funcionalidades
+## Estrutura e funcionalidades
 
 A aplicação possui 4 telas: login, registro, linha do tempo e perfil, onde:
 
@@ -151,7 +137,7 @@ No seu perfil é permitido:
 <img src='./readme/desktop3.png' width='780px' alt='desktop 3'> 
 </p>
 
-## 5. Considerações técnicas
+## Considerações técnicas
 
 Para a construção do site foi utilizado o software _Visual Studio Code_ com _NPM_ e _Git_.  
 Sua marcação foi feita em _HTML5_ utilizando tags semânticas e sistema de rotas.  
@@ -163,12 +149,12 @@ Colaboração e armazenamento com _GitHub_.
 Organização com _Trello_.  
 Interface hospedada usando _Firebase Hosting_.
 
-### Instalação e execução. :octocat:
+## Instalação e execução. :octocat:
 
-- [Clone](https://help.github.com/articles/cloning-a-repository/) o projeto na sua máquina executando o seguinte comando no seu terminal:
+- Clone o projeto na sua máquina executando o seguinte comando no seu terminal:
 
 ```sh
-git clone (link-do-repositório)
+git clone https://github.com/camilagerarde/SAP004-social-network
 ```
 
 - Instale as dependências do projeto com o comando:
@@ -189,7 +175,7 @@ npm start
 http://localhost:5000
 ```
 
-## 6. Implementações futuras
+## Implementações futuras
 
 Futuramente serão implementadas funcionalidades para melhoria da experiência do usuário:
 
@@ -207,11 +193,11 @@ Futuramente serão implementadas funcionalidades para melhoria da experiência d
 - Marcar usuários nos posts.
 - Explorar posts.
 
-## 7. Autoria
-
-Este projeto foi feito por [Camila Cunha](https://github.com/camilagerarde), [Gabriela Piovezan](https://github.com/gabrielapiovezan) e [Mariana Barros](https://github.com/MarianaMBarros) com base no projeto da [Laboratoria](https://github.com/Laboratoria).
-
-## 8. Agradecimentos
+## Agradecimentos
 
 - [Laboratoria](https://github.com/Laboratoria).
 - Ícones e vetores: [Freepik](https://www.flaticon.com/br/autores/freepik), [Pixel Perfect](https://www.flaticon.com/br/autores/pixel-perfect) e [Those Icons](https://www.flaticon.com/br/autores/those-icons).
+
+**Este projeto foi feito por [Camila Cunha](https://github.com/camilagerarde), [Gabriela Piovezan](https://github.com/gabrielapiovezan) e [Mariana Barros](https://github.com/MarianaMBarros) com base no projeto da [Laboratoria](https://github.com/Laboratoria).**
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
