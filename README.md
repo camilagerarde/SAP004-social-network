@@ -6,7 +6,7 @@
 <img src='./public/pages/elementos/imagens/IMG3.png' alt='logo do projeto' height='300px'> 
 </p>
 
-[Introdução](#introdução) | [Planejamento](#planejamento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Instalação e execução](#instalação-e-execução-octocat) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
+[Introdução](#introdução) | [Criação e desenvolvimento](#criação-e-desenvolvimento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Instalação e execução](#instalação-e-execução-octocat) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
 
 ---
 
@@ -19,7 +19,7 @@ Desenvolvida com múltiplas telas (SPA) e persistência de dados, permite ao usu
 <img src='https://media.giphy.com/media/10u6gt11vnm812/giphy.gif' alt='gif cozinheiro'> 
 </p>
 
-## Planejamento
+## Criação e desenvolvimento
 ### Principais usuários
 
 Chefes, aspirantes, cozinheiros amadores e qualquer pessoa que se interesse por culinária.
