@@ -6,7 +6,7 @@
 <img src='./public/pages/elementos/imagens/IMG3.png' alt='logo do projeto' height='300px'> 
 </p>
 
-[Introdução](#introdução) | [Planejamento](#planejamento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
+[Introdução](#introdução) | [Planejamento](#planejamento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Instalação e execução](#instalação-e-execução-octocat) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
 
 ---
 
@@ -195,9 +195,8 @@ Futuramente serão implementadas funcionalidades para melhoria da experiência d
 
 ## Agradecimentos
 
-- [Laboratoria](https://github.com/Laboratoria).
-- Ícones e vetores: [Freepik](https://www.flaticon.com/br/autores/freepik), [Pixel Perfect](https://www.flaticon.com/br/autores/pixel-perfect) e [Those Icons](https://www.flaticon.com/br/autores/those-icons).
+Ícones e vetores: [Freepik](https://www.flaticon.com/br/autores/freepik), [Pixel Perfect](https://www.flaticon.com/br/autores/pixel-perfect) e [Those Icons](https://www.flaticon.com/br/autores/those-icons).
 
-**Este projeto foi feito por [Camila Cunha](https://github.com/camilagerarde), [Gabriela Piovezan](https://github.com/gabrielapiovezan) e [Mariana Barros](https://github.com/MarianaMBarros) com base no projeto da [Laboratoria](https://github.com/Laboratoria).**
+**Feito por [Camila Cunha](https://github.com/camilagerarde), [Gabriela Piovezan](https://github.com/gabrielapiovezan) e [Mariana Barros](https://github.com/MarianaMBarros) com base no projeto da [Laboratória](https://github.com/Laboratoria).**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
