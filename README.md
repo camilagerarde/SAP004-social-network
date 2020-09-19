@@ -2,7 +2,7 @@
 
 #### Para acessar a página [clique aqui](https://social-networt.web.app/). :computer:
 
-
+## Índice
 
 [Introdução](#introdução) | [Criação e desenvolvimento](#criação-e-desenvolvimento) | [Sobre a página](#sobre-a-página) | [Estrutura e funcionalidades](#estrutura-e-funcionalidades) | [Considerações técnicas](#considerações-técnicas) | [Instalação e execução](#instalação-e-execução-octocat) | [Implementações futuras](#implementações-futuras) | [Agradecimentos](#agradecimentos)
 
